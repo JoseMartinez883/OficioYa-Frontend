@@ -1,16 +1,33 @@
-# React + Vite
+# OficioYa - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 👥 Participantes
+*   [Nombre del Participante 1] - [Rol/Código]
+*   [Nombre del Participante 2] - [Rol/Código]
+*   [Nombre del Participante 3] - [Rol/Código]
 
-Currently, two official plugins are available:
+## 📝 Contexto
+[Escribe aquí el contexto de la aplicación OficioYa. ¿Qué problema resuelve? ¿A quién va dirigida? ¿Cuál es su propósito principal?]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎨 Logotipo
+![Logotipo de OficioYa](./ruta-a-tu-logo.png)
+*(Reemplaza la ruta con la imagen de tu logo)*
 
-## React Compiler
+## 📘 Manual de Identidad
+[Describe aquí los colores principales, tipografías y reglas de estilo de tu aplicación, o añade un enlace a tu documento/PDF de manual de identidad corporativa.]
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🔗 Link al Figma con los mockups
+*   [Enlace a Figma - Mockups de OficioYa](https://www.figma.com/...)
 
-## Expanding the ESLint configuration
+## 🧩 Módulos de la aplicación
+*(A continuación, explica cada módulo y acompaña con una imagen de los mockups)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Módulo de Autenticación / Registro
+[Descripción del módulo: Permite a los usuarios crear una cuenta, iniciar sesión o recuperar contraseña.]
+![Mockup de Autenticación](./ruta-a-imagen-mockup-auth.png)
+
+### 2. Módulo de [Nombre del Módulo]
+[Descripción del módulo]
+![Mockup de Módulo](./ruta-a-imagen-mockup.png)
+
+---
+**Nota:** Actualmente este repositorio solo contiene la estructura inicial del proyecto en React y este README, tal como fue solicitado en la entrega. No hay código de pantallas implementado todavía.
